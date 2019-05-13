@@ -12,6 +12,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Líderes :relieved:
 **(C&T/Eng Computação):**
 * [Lucas Figueredo](https://github.com/lucasboot) 
+* [Lucas Maia](https://github.com/lucasmaia435)
 
 **(C&T/Eng Mecanica):**
 * [Luiz Felipe Araújo](https://github.com/LuizFelipeLemon)                           
