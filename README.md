@@ -24,7 +24,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Arthur   
 
 **(C&T/Eng Mecatronica):**           
-* Gabriel Barros Lins Lelis de OLiveira   
+* Gabriel Barros Lins Lelis de Oliveira   
 
 
             
@@ -34,8 +34,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
 
 ## Módulos 
-* Introdução ao ROS 
-* ROS 
+* [Introdução aos comandos do Terminal Linux](https://github.com/Natalnet/ModulosDeEstudo/tree/master/Linux)
+* [Python](https://github.com/Natalnet/ModulosDeEstudo/tree/master/Python/Basico)
+* [Introdução ao ROS](https://github.com/Natalnet/ModulosDeEstudo/tree/master/ROS/Basico) 
+* [ROS Intermediário](https://github.com/Natalnet/ModulosDeEstudo/tree/master/ROS/Intermediario)
 
 
 
