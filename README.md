@@ -32,8 +32,8 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Como faço para ser um candidato?
 
 ## Subgrupos :notebook:
-* [Grupo de robô com patas]()
-* [Grupo de ROS]()
+* [Grupo de robô com patas](https://github.com/Natalnet/GR/tree/master/GRP)
+* [Grupo de ROS](https://github.com/Natalnet/GR/tree/master/GRROS)
 
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
 
