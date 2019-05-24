@@ -31,11 +31,12 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Candidatos :runner:
 * Como faço para ser um candidato?
 
+Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
+
 ## Subgrupos :notebook:
 * [Grupo de robô com patas](https://github.com/Natalnet/GR/tree/master/GRP)
 * [Grupo de ROS](https://github.com/Natalnet/GR/tree/master/GRROS)
 
-Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
 
 ## Módulos 
 * [Introdução aos comandos do Terminal Linux](https://github.com/Natalnet/ModulosDeEstudo/tree/master/Linux)
