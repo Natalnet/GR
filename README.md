@@ -31,6 +31,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Candidatos :runner:
 * Como faço para ser um candidato?
 
+## Subgrupos :notebook:
+* [Grupo de robô com patas]()
+* [Grupo de ROS]()
+
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
 
 ## Módulos 
