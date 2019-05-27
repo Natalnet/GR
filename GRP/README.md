@@ -9,4 +9,4 @@
 Com a realização das atividades estarei adicionando mais materiais sempre que necessário. :relieved:
 
 ### Atividades
-* [Primeira atividade - Blink](/Atividades/atividade_1.md) 
+* [Primeira atividade - Blink](Atividades/atividade_1.md) 
