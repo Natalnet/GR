@@ -10,3 +10,4 @@ Com a realização das atividades estarei adicionando mais materiais sempre que 
 
 ### Atividades
 * [Primeira atividade - Blink](Atividades/atividade_1.md) 
+* [Segunda atividade - Push button](/Atividades/atividade_2.md)
