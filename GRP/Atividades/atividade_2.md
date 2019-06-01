@@ -1,7 +1,7 @@
 ## Segunda atividade - Push Button
 Nesta atividade iremos ligar um pequeno circuito eletrônico a partir do apertar de um botão.
 
-Para essa atividade iremos usar os seguintes componentes da lista de componentes:
+Para essa atividade iremos usar os seguintes componentes:
 
 * 3 - Led's (qualquer cor)
 * 3 - Resistor 220 Ohms
