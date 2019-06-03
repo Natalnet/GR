@@ -33,3 +33,6 @@ Se o seu circuito funcionou perfeitamente, então pode seguir para as atividades
 ## Atividades
 * Fazer uma led piscar, enquanto o botão estiver ligado.
 * Fazer o arduino mandar uma mensagem, no serial, quando um botão for pressionado.
+
+### Dúvidas e sugestões
+Entrar em contato com [Lucas Maia](https://github.com/Lucasmaia435)
