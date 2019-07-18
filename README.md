@@ -31,7 +31,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Candidatos :runner:
 * Como faço para ser um candidato?
 
-Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
+Para participar do grupo voce deve inicialmente procurar um Lider ou membro, sendo esse quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GR.
 
 ## Subgrupos :notebook:
 * [Grupo de robô com patas](https://github.com/Natalnet/GR/tree/master/GRP)
