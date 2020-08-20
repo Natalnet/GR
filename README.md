@@ -19,6 +19,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 **(C&T/Eng Mecanica):**
 * [Luiz Felipe Araújo](https://github.com/LuizFelipeLemon)                           
+* Paulo Xavier 
 
 ## Membros :wink:
 
@@ -34,6 +35,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 **(C&T/Eng Mecatronica):**           
 * Gabriel Barros Lins Lelis de Oliveira   ??? Confirmar 
+* Jaysa 
 * Vinicius Oliveira
 
 
