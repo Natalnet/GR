@@ -64,7 +64,7 @@ Para participar do grupo voce deve inicialmente procurar um Lider ou membro, sen
 * Desenvolvimento de arquitetura básica de um robô para segurança patrimonial com ferramentas ROS 
 
 ## Projetos Integradorores 
-São desafios da Competição Brasileira de Robótica, CBR, e da .. ver [link](http://www.cbrobotica.org/index.php/categorias/). 
+São desafios da Competição Brasileira de Robótica, CBR, [ver link](http://www.cbrobotica.org/index.php/categorias/). 
 * Desafio IEEE @home [link para as regras](https://athome.robocup.org/rules/) 
 * Desafio IEEE Open [link para as regras](http://200.145.27.208/cbr/wp-content/uploads/2020/07/OPEN2020_2021_en.pdf) 
 
