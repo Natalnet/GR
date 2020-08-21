@@ -67,3 +67,12 @@ Para participar do grupo voce deve inicialmente procurar um Lider ou membro, sen
 * Implementação de melhorias no rastreamento de características visuais da RGB-D RTK para uso em SLAM em robôs móveis
 * Desenvolvimento de arquitetura básica de um robô para segurança patrimonial com ferramentas ROS 
 
+## Projeto Integrador 
+* Desafio IEEE @home 
+### Metas 
+* Montar ambiente simulado 
+* Controle do braço robótico com visão computacional
+* Navegação para pontos objetivos com habilidade de desviar de obstáculos
+* Pegar e soltar um objeto 
+* Seguir uma pessoa 
+* Resolver tarefas do desafio @home 
