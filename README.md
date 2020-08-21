@@ -15,6 +15,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Líderes :relieved:
 **(C&T/Eng Computação):**
 * [Lucas Figueredo](https://github.com/lucasboot) 
+* Pedro Henrique 
 * [Lucas Maia](https://github.com/lucasmaia435) ??? Confirmar 
 
 **(C&T/Eng Mecanica):**
@@ -31,12 +32,9 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Rodrigo Rodrigues 
 
 ### Voluntários 
-**(C&T/Eng Computaçao):**
-
-**(C&T/Eng Mecatronica):**           
+* Brenda Calado 
+* João Vitor           
 * Vinicius Oliveira
-
-
 
             
 ## Candidatos :runner:
