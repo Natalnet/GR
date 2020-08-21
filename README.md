@@ -34,8 +34,6 @@ O Objetivo é formação de recursos humanos nas áreas de:
 **(C&T/Eng Computaçao):**
 
 **(C&T/Eng Mecatronica):**           
-* Gabriel Barros Lins Lelis de Oliveira   ??? Confirmar 
-* Jaysa 
 * Vinicius Oliveira
 
 
