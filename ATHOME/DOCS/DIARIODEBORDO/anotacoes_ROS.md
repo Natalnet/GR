@@ -14,7 +14,7 @@ revisão básica do ROS
 Arquivos de texto que contem tipos e nomes de variáveis.
 
 **arquivos srv (service file)**
-serviços são como msg files porém dividem as variáveis em solicitação e resposta.
+Serviços são como msg files porém dividem as variáveis em solicitação e resposta.
 
 ---
 Sempre usar ```. ~/catkin_ws/devel/setup.bash``` no terminar apos iniciar a maquina para iniciar o ambiente e os comandos direcionado ao ROS (```roscd, rospack, etc```) funcionarem.
