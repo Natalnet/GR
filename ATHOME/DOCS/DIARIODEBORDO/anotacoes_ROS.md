@@ -18,7 +18,7 @@ Arquivos de texto que contem tipos e nomes de variáveis.
 Serviços são como msg files porém dividem as variáveis em solicitação e resposta.
 
 ---
-Sempre usar ```. ~/catkin_ws/devel/setup.bash``` no terminar apos iniciar a maquina para iniciar o ambiente e os comandos direcionado ao ROS (```roscd, rospack, etc```) funcionarem.
+Sempre usar ```. ~/catkin_ws/devel/setup.bash``` no terminar apos iniciar a maquina para iniciar o ambiente e os comandos direcionado ao ROS (```roscd```, ```rospack```, etc) funcionarem.
 
 Para criar srv e msg é necessario alterar partes do ```package.xml``` e do ```CMakeLists.txt```.
 
