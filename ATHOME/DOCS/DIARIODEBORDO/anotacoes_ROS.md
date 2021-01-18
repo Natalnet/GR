@@ -23,3 +23,9 @@ Sempre usar ```. ~/catkin_ws/devel/setup.bash``` no terminar apos iniciar a maqu
 Para criar srv e msg é necessario alterar partes do ```package.xml``` e do ```CMakeLists.txt```.
 
 Erro no catkin_make causado pela falta do package em python ```empy```.
+
+## 12-16 de Janeiro, 2021
+-Incompatibilidade do ROS com biblioteca em Python de Speech Recognition DeepSpeech
+-Estudo mais aprofundado dos packages do ROS, versões e incopatibilidades.
+No ROS Kinetic Kame o ```catkin_make``` usa python2.7/c++ para montar os packages, portanto nodes criados em outras versões python podem causar problemas na criação dos packages
+-O suporte a python2.7 acabou em 31/12/2020
